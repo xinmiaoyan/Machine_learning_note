@@ -1,7 +1,6 @@
 # Machine_learning_note
 ## 1. resources
-### 1) [Python](https://www.python.org/) 
-1.1-python.md
+### 1) [Python](https://www.python.org/) [1.1-python.md]
 ### 2) 🐼 [pandas](https://pandas.pydata.org/)
 pandas provides high-level data structures and functions designed to make working with structured or tabular data fast, easy, and expressive. Since its emergence in 2010, it has helped enable Python to be a powerful and productive data analysis environment. The primary objects in pandas that will be used in this book are the DataFrame, a tabular, column-oriented data structure with both row and column labels, and the Series, a one-dimensional labeled array object.
 pandas blends the high-performance, array-computing ideas of NumPy with the flex‐ ible data manipulation capabilities of spreadsheets and relational databases (such as SQL). It provides sophisticated indexing functionality to make it easy to reshape, slice and dice, perform aggregations, and select subsets of data.
