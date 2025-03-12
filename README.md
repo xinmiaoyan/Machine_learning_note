@@ -1,6 +1,6 @@
 # Machine_learning_note
 ## 1. resources
-### 1) [Python](https://www.python.org/) [1.1-python.md]
+### 1) [Python](https://www.python.org/)
 ### 2) [pandas 🐼](https://pandas.pydata.org/)
 ### 3) [numpy](https://numpy.org/)
 ### 4) [matplotlib](https://matplotlib.org/)
