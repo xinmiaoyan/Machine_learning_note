@@ -10,11 +10,11 @@
 ### 8) [seaborn](https://seaborn.pydata.org/)
 | resources | Introduction | learning process |
 |---|---|---|
-| [Python](https://www.python.org/) | [*](https://github.com/xinmiaoyan/Machine_learning_note/blob/main/1.1-python.md) | None |
-| [pandas 🐼](https://pandas.pydata.org/) | [*](https://github.com/xinmiaoyan/Machine_learning_note/blob/main/1.2-pandas.md) | None |
-| [numpy](https://numpy.org/) | [*](https://github.com/xinmiaoyan/Machine_learning_note/blob/main/1.3-numpy.md) | |
-| [matplotlib](https://matplotlib.org/) | [*](https://github.com/xinmiaoyan/Machine_learning_note/blob/main/1.4-matplotlib.md) | |
-| [SciPy](https://scipy.org/) | [*](https://github.com/xinmiaoyan/Machine_learning_note/blob/main/1.5-SciPy.md) | |
-| [scikit-learn](https://scikit-learn.org/stable/) | [*](https://github.com/xinmiaoyan/Machine_learning_note/blob/main/1.6-scikit-learn.md) | |
-| [statsmodels](https://www.statsmodels.org/stable/index.html) | [*](https://github.com/xinmiaoyan/Machine_learning_note/blob/main/1.7-statsmodel.md)| |
+| [Python](https://www.python.org/) | [1.1-python.md](https://github.com/xinmiaoyan/Machine_learning_note/blob/main/1.1-python.md) | None |
+| [pandas 🐼](https://pandas.pydata.org/) | [1.2-pandas.md](https://github.com/xinmiaoyan/Machine_learning_note/blob/main/1.2-pandas.md) | None |
+| [numpy](https://numpy.org/) | [1.3-numpy.md](https://github.com/xinmiaoyan/Machine_learning_note/blob/main/1.3-numpy.md) | |
+| [matplotlib](https://matplotlib.org/) | [1.4-matplotlib.md](https://github.com/xinmiaoyan/Machine_learning_note/blob/main/1.4-matplotlib.md) | |
+| [SciPy](https://scipy.org/) | [1.5-SciPy.md](https://github.com/xinmiaoyan/Machine_learning_note/blob/main/1.5-SciPy.md) | |
+| [scikit-learn](https://scikit-learn.org/stable/) | [1.6-scikit-learn.md](https://github.com/xinmiaoyan/Machine_learning_note/blob/main/1.6-scikit-learn.md) | |
+| [statsmodels](https://www.statsmodels.org/stable/index.html) | [1.7-statsmodel.md](https://github.com/xinmiaoyan/Machine_learning_note/blob/main/1.7-statsmodel.md)| |
 | [seaborn](https://seaborn.pydata.org/)| | |
