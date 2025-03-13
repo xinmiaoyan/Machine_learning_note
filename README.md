@@ -9,6 +9,7 @@
 ### 7) [statsmodels](https://www.statsmodels.org/stable/index.html) [*](https://github.com/xinmiaoyan/Machine_learning_note/blob/main/1.7-statsmodel.md)
 ### 8) [seaborn](https://seaborn.pydata.org/)
 | resources | Introduction | learning process |
+|---|---|---|
 | [Python](https://www.python.org/) | [*](https://github.com/xinmiaoyan/Machine_learning_note/blob/main/1.1-python.md) | None |
 | [pandas 🐼](https://pandas.pydata.org/) | [*](https://github.com/xinmiaoyan/Machine_learning_note/blob/main/1.2-pandas.md) | None |
 | [numpy](https://numpy.org/) | [*](https://github.com/xinmiaoyan/Machine_learning_note/blob/main/1.3-numpy.md) | |
